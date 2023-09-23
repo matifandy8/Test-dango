@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Tourmaline & Tea tree",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiadeserunt et cumque totam.",
+    "price": 19.99,
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "title": "Tourmaline & Tea tree",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiadeserunt et cumque totam.",
+    "price": 29.99,
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "title": "Tourmaline & Tea tree",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiadeserunt et cumque totam.",
+    "price": 39.99,
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "title": "Tourmaline & Tea tree",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiadeserunt et cumque totam.",
+    "price": 49.99,
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "title": "Tourmaline & Tea tree",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiadeserunt et cumque totam.",
+    "price": 59.99,
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "title": "Tourmaline & Tea tree",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiadeserunt et cumque totam.",
+    "price": 69.99,
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "title": "Tourmaline & Tea tree",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiadeserunt et cumque totam.",
+    "price": 79.99,
+    "quantity": 0
+  },
+  {
+    "id": 8,
+    "title": "Tourmaline & Tea tree",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiadeserunt et cumque totam.",
+    "price": 89.99,
+    "quantity": 0
+  }
+]
